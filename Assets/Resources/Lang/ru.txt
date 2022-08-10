@@ -1,0 +1,22 @@
+Русский;ru;30;0
+test.lang=Тест языка
+improvement.name0=Ул. 0
+improvement.name1=Ул. 1
+improvement.level=Ур.
+startGameMenu.level=Уровень
+startGameMenu.tapToStart=НАЖМИТЕ ЧТОБЫ НАЧАТЬ
+ui.get=ВЗЯТЬ
+ui.noThanks=НЕТ, СПАСИБО
+ui.continue=ПРОДОЛЖИТЬ
+ui.next=ДАЛЕЕ
+ui.start=НАЧАТЬ
+ui.restart=ПОВТОРИТЬ
+ui.lose=ВЫ ПРОИГРАЛИ!
+ui.win0=ВАУ!
+ui.win1=ВПЕЧЕТЛЯЮЩЕ!
+ui.win2=ПОТРЯСАЮЩЕ!
+ui.double=УДВОЕНИЕ
+ui.revive=ВОЗРОДИТЬСЯ
+ui.levelComplete=УРОВЕНЬ ПРОЙДЕН!
+ui.levelFailure=УРОВЕНЬ ПРОВАЛЕН!
+ui.level=УРОВЕНЬ

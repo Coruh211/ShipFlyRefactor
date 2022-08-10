@@ -1,0 +1,22 @@
+English;en;10;0
+test.lang=Test lang
+improvement.name0=Imp. 0
+improvement.name1=Imp. 1
+improvement.level=Lvl
+startGameMenu.level=Level
+startGameMenu.tapToStart=TAP TO START
+ui.get=GET
+ui.noThanks=NO, THANKS
+ui.continue=CONTINUE
+ui.next=NEXT
+ui.start=START
+ui.restart=RESTART
+ui.lose=YOU LOSE!
+ui.win0=WOW!
+ui.win1=IMPRESSIVE!
+ui.win2=AWESOME!
+ui.double=DOUBLE
+ui.revive=REVIVE
+ui.levelComplete=LEVEL COMPLETED!
+ui.levelFailure=LEVEL FAILURE!
+ui.level=LEVEL

@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: StarterPackAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7ef875bed0782a44ca5cf83333792797, type: 3}
+    totalSpriteSurfaceArea: 3247845
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 03b08510c47f7cb43b76b7b144cdcf75, type: 3}
+  - {fileID: 21300000, guid: dde24f10d64f2f44bae27d997c82166d, type: 3}
+  - {fileID: 21300000, guid: b2375b6104074bd4c8779ec3084ab392, type: 3}
+  - {fileID: 21300000, guid: b3346d818cc7a6748913a3a52a3e16f8, type: 3}
+  - {fileID: 21300000, guid: 7e023f121d0ffa74f9d46fbf0f06fabe, type: 3}
+  - {fileID: 21300000, guid: 49891362441d17042b64b6b6f66d9ff6, type: 3}
+  - {fileID: 21300000, guid: de45fde2f10489d4b84dce6363536ce1, type: 3}
+  - {fileID: 21300000, guid: 45bb44035cb62134f8f8ed4b1f01176c, type: 3}
+  - {fileID: 21300000, guid: cd4b5114e04b53f4aac687d59eb68856, type: 3}
+  - {fileID: 21300000, guid: cbaa7134c6b1fb944a7e2739620e4232, type: 3}
+  - {fileID: 21300000, guid: dee7235529ba66546bc1045673990ea4, type: 3}
+  - {fileID: 21300000, guid: 9d55ec653b75a2546a1bc24666580842, type: 3}
+  - {fileID: 21300000, guid: dbf5e296aa568244593f68d6dbdc7b0d, type: 3}
+  - {fileID: 21300000, guid: 859620d605273f049a4fd5a9a1896000, type: 3}
+  - {fileID: 21300000, guid: be41d5377e4c0e14b8cd24f2598e4d17, type: 3}
+  - {fileID: 21300000, guid: 78b86397aca0df748be9f6c96d4f1c47, type: 3}
+  - {fileID: 21300000, guid: 9e956218dafb3f64eb225113b60175a3, type: 3}
+  - {fileID: 21300000, guid: 3c58f099c33d84845aeb8f16cd5da6e3, type: 3}
+  - {fileID: 21300000, guid: 8425079913bacdd499d1c62e14e8ba07, type: 3}
+  - {fileID: 21300000, guid: d0e5481ab2f834a41821cf093da9e9f5, type: 3}
+  - {fileID: 21300000, guid: 568732da873ea704abb3844136124f8f, type: 3}
+  - {fileID: 21300000, guid: 9023460b568fa6844b0c14d1bd88872c, type: 3}
+  - {fileID: 21300000, guid: 6199c97b85031804683dd45dea9877f8, type: 3}
+  - {fileID: 21300000, guid: 98e6d04c814122447a9fd58480cf260b, type: 3}
+  - {fileID: 21300000, guid: 4a0e978cbfdbd8649ab83cd4ffb59b5b, type: 3}
+  - {fileID: 21300000, guid: e4c3e9ac70ccf4440b00c50be8f6d9a0, type: 3}
+  - {fileID: 21300000, guid: aa1b8aad5651a19469cb16f105310a13, type: 3}
+  - {fileID: 21300000, guid: 6b5b42de7756f9c40a764f0fe67a5f02, type: 3}
+  - {fileID: 21300000, guid: f62b8a8f6f79b664b95e7d92b08a6943, type: 3}
+  - {fileID: 21300000, guid: a5b5d9ef203890646924e6de07e9d3ea, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - btn_green
+  - progressbar_cell_blue
+  - simple_progressbar_outline
+  - hand
+  - tape_lose
+  - simple_progressbar
+  - progressbar_cell
+  - arrow
+  - smiley_lose
+  - btn_pink
+  - progressbar_off
+  - progressbar_revive_light
+  - money
+  - smiley_win
+  - progressbar_fill_revive
+  - money_small
+  - progressbar_fill_blue
+  - progressbar_off_blue
+  - video_icon
+  - progressbar_revive
+  - infinity
+  - progressbar_substrate
+  - progressbar_substrate_blue
+  - UI_Icon_Reload
+  - btn_blue
+  - flare
+  - tape_win_dark
+  - tape_win_light
+  - progressbar_fill
+  - tape_lose_light
+  m_Tag: StarterPackAtlas
+  m_IsVariant: 0

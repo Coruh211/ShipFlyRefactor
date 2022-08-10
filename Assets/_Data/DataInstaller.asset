@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2bc899065cb42d48b0e4550ecc38793, type: 3}
+  m_Name: DataInstaller
+  m_EditorClassIdentifier: 
+  ScreenOrientation: 1
+  DebugMode: 0
+  EnableAds: 1
+  Nicknames:
+  - KutilinSA
+  - Veta
+  - MatriX
+  - R1nGoo
+  - Corwin
+  - Minebot
+  - Kenzi
+  - CyrilZ
+  - Tema
+  - Rider_Blade
+  - gexly
+  - Temo4kin
+  - adguard
+  - Yanic
+  - Gidel
+  - Inahidi
+  - Ssosa
+  - Gomer
+  - Edan
+  - Ulonasta
+  - Jeffer
+  - Rbyaakov
+  - WhshNik
+  - Ulua
+  - Dysius
+  - Skiff79
+  - Rionair
+  - Xandread
+  - Ssergus
+  - Onaneva
+  - Najaxo
+  - Leynara
+  - Minivel
+  - Inetan
+  - Perenec
+  - Quinti
+  - Patiera
+  - Everice
+  - Ober
+  - Xonah
+  - Ipporan
+  - Nitan
+  - Joker000
+  - Jesi
+  - OXILORE
+  - Stic
+  - Janasna
+  - Elia
+  - Noritt
+  - Llame
+  - Karikor
+  - Caesaray
+  - Isiss
+  - Hoan
+  - Belemu
+  - Vendarr
+  - Jesusa
+  - Xanth
+  - Jensouth
+  - Saee
+  - Winta
+  - Cherriel
+  - Garf
+  - Branzaaa
+  - Cytheodo
+  - Bster
+  - Axim
+  - Uilleri
+  - Gianal
+  - Naricka
+  - Rahma
+  - Hate
+  - Cony
+  - Cort
+  - Zloann
+  - Heala
+  - Gangie
+  - Katiser
+  - Gaza
+  - Keili
+  - Onal
+  - Yvon
+  - Felin
+  - Ueloisel
+  - Drickoaa
+  - Ssann
+  - Kortoniq
+  - Beckenn
+  - Wardonor
+  - Quel
+  - Zahina
+  - Dora
+  - Briel
+  - Qwar
+  - adguardPaladin
+  - DJ Daks NN
+  - shelpi
+  - Chris Blade
+  - simonov-89
+  - Antonio_Bianco
+  - NIKALATA
+  - kizune
+  - so#unpredictable
+  - mamalama
+  - Arti
+  - Amrun
+  ShowJoystick: 0
+  ControlType: 1

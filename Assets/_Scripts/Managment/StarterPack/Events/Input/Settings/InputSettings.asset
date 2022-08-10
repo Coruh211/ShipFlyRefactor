@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7332700d5ddbdfd4e87c453852e920da, type: 3}
+  m_Name: InputSettings
+  m_EditorClassIdentifier: 
+  <MultitouchEnabled>k__BackingField: 0
+  editedPrefabs:
+  - Assets/Modules/Joystick Pack/Prefabs/Variable Joystick.prefab
+  - Assets/Modules/Joystick Pack/Prefabs/Floating Joystick.prefab
+  - Assets/Modules/Joystick Pack/Prefabs/Fixed Joystick.prefab
+  - Assets/Modules/Joystick Pack/Prefabs/Dynamic Joystick.prefab
+  - Assets/Prefabs/StarterPack/UI/UIPack/StartVariations/ArrowStartButton.prefab
+  - Assets/Prefabs/StarterPack/UI/UIPack/StartVariations/InfinityStartButton.prefab
+  - Assets/Prefabs/StarterPack/UI/UIPack/StartVariations/NewStart/ArrowStartButtonDarkNew.prefab
+  - Assets/Prefabs/StarterPack/UI/UIPack/StartVariations/NewStart/InfinityStartButtonDarkNew.prefab
+  - Assets/Prefabs/StarterPack/UI/UIPack/StartVariations/NewStart/StartButtonDarkNew.prefab
+  - Assets/Prefabs/StarterPack/UI/UIPack/StartVariations/NewStart/TapToStartButton.prefab
+  - Assets/Prefabs/StarterPack/UI/UIPack/StartVariations/StartButton.prefab
+  searchInFolders:
+  - Assets/Prefabs
+  - Assets/Modules/Joystick Pack/Prefabs
