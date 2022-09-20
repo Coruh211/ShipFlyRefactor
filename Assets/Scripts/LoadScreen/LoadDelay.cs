@@ -7,8 +7,9 @@ namespace LoadScreen
 {
     public class LoadDelay: MonoBehaviour
     {
-        [SerializeField] private string nextSceneName;
         [SerializeField] private float delayLoad;
+        
+        private const string NextSceneName = "MainMenu";
 
         private void Start()
         {
@@ -18,7 +19,7 @@ namespace LoadScreen
         private void ActivateDelay()
         {
             Observable.Timer(delayLoad.sec()).TakeUntilDisable(gameObject)
-                .Subscribe(x => SceneManager.LoadScene(nextSceneName));
+                .Subscribe(x => SceneManager.LoadScene(NextSceneName));
         }
     }
 }

@@ -1,14 +1,15 @@
-﻿using Services.Input;
+﻿using LoadScreen;
+using Services.Input;
 
 namespace Infrastructure
 {
     public class Game
     {
-        private IInputService inputService;
+        public GameStateMachine StateMachine;
 
-        public Game()
+        public Game(ICoroutineRunner coroutineRunner, LoadCanvas loadCanvas)
         {
-            inputService = new InputService();
+            StateMachine = new GameStateMachine(new SceneLoader(coroutineRunner), loadCanvas);
         }
     }
 }

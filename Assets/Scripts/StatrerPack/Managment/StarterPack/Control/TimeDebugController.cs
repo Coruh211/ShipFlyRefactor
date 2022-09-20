@@ -36,8 +36,7 @@ public class TimeDebugController : MonoBehaviour
             Time.timeScale = maxTime;
         else if (Time.timeScale < 0)
             Time.timeScale = 0;
-
-        text.text = Time.timeScale.ToString(CultureInfo.CurrentCulture);
+        
         if (Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.DownArrow))
         {
             text.enabled = true;

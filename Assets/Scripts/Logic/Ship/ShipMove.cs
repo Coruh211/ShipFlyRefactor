@@ -9,7 +9,7 @@ namespace Logic.Ship
         
         private IInputService inputService;
 
-        private void Init(IInputService inputService)
+        public void Init(IInputService inputService)
         {
             this.inputService = inputService;
             inputService.OnHoldTap += MoveUpShip;
